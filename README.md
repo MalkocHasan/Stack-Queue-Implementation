@@ -1,5 +1,6 @@
 # Stack-Queue-Implementation
 Hasan Malkoc BBM104_AS4 28/05/2021
+Vendor Machine Application with stack and queue implementations
 
 ## 1 Introduction
 In this assignment, you are going to simulate a vending machine scenario. According to this
